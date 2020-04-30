@@ -1,0 +1,27 @@
+#Ati Ok
+#Section 15 : Joe Collins
+#ao10@umbc.edu
+#February 1st, 2016
+
+Question 2:
+1.Store the palindrome in a variable called "word1"
+2.Rewrite the palindrome backwards and store it in a variable called "word2"
+3.Go through word1 and word2 checking each letter simultaneously
+4.If the current letter in word1 does not match word2 it is not a palindrome
+5.If the test goes through with all letters in word1 and word2 equal to eachother it is a
+
+Question 3:
+1.Start at the first notecard
+2.Create a variable called "lowest"
+3.Store the first notecard in "lowest"
+4.Compare "lowest" to the next card using the (>) greater-than operator
+5.If "lowest" is higher than the card its being compared to, store that card in "lowest"
+6.Repeat from step 4 until you have compared all the notecards
+
+
+
+Question 4:
+1.Store the current number in a variable called "factorial"
+2.Subtract 1 from factorial and multiply that number by "factorial"
+3.Store that number in a variable called "currentTotal"
+4.Repeat from step 2 until "factorial" is equal to 1.
